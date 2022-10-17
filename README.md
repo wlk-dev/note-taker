@@ -14,7 +14,9 @@ A simple webapp that communicates with a node server to save and delete your not
 ## Installation
 `N/A`
 ## Usage
-Click the Get Started button on the home page, Add a title and body of your note, then click the save icon that appears in the top right of the screen.
+First head over to the [deployed page](https://note-taker-production.up.railway.app/notes).
+
+Then click the Get Started button on the home page, Add a title and body of your note, then click the save icon that appears in the top right of the screen.
 ## License
 This project is covered under the [MIT](https://opensource.org/licenses/MIT) license.
 ## Contribution Guidelines
